@@ -1,0 +1,15 @@
+C:\Users\iliana\Desktop\TareaEF\EF\EF\bin\Debug\EF.exe.config
+C:\Users\iliana\Desktop\TareaEF\EF\EF\bin\Debug\EF.exe
+C:\Users\iliana\Desktop\TareaEF\EF\EF\bin\Debug\EF.pdb
+C:\Users\iliana\Desktop\TareaEF\EF\EF\bin\Debug\EntityFramework.dll
+C:\Users\iliana\Desktop\TareaEF\EF\EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\iliana\Desktop\TareaEF\EF\EF\bin\Debug\EntityFramework.xml
+C:\Users\iliana\Desktop\TareaEF\EF\EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\iliana\Desktop\TareaEF\EF\EF\obj\Debug\EF.csprojAssemblyReference.cache
+C:\Users\iliana\Desktop\TareaEF\EF\EF\obj\Debug\EF.Form1.resources
+C:\Users\iliana\Desktop\TareaEF\EF\EF\obj\Debug\EF.Properties.Resources.resources
+C:\Users\iliana\Desktop\TareaEF\EF\EF\obj\Debug\EF.csproj.GenerateResource.cache
+C:\Users\iliana\Desktop\TareaEF\EF\EF\obj\Debug\EF.csproj.CopyComplete
+C:\Users\iliana\Desktop\TareaEF\EF\EF\obj\Debug\EF.exe
+C:\Users\iliana\Desktop\TareaEF\EF\EF\obj\Debug\EF.pdb
+C:\Users\iliana\Desktop\TareaEF\EF\EF\obj\Debug\EF.Form2.resources
